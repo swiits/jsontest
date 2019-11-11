@@ -1,0 +1,49 @@
+{
+  "profiles": [
+    {
+      "name": "강소라",
+      "type": "건반, 앰프, 드럼, 영어, 중국어",
+      "region": "수원",
+      "description": "다재다능 모든 건반 다 다뤄요 연락 기다립니다.",
+      "img": "https://d2v80xjmx68n4w.cloudfront.net/gigs/RCkLt1560706019.jpg",
+      "myteam": "싸롱드비",
+      "owned": "아시아드"
+    },
+    {
+      "name": "김삼성",
+      "type": "UX, 홈페이지",
+      "region": "수원",
+      "description": "뽑아주세요 같이해요",
+      "img": "https://d2v80xjmx68n4w.cloudfront.net/gigs/DbKxL1552029542.",
+      "myteam": "까페쏭투미",
+      "owned": "삐누"
+    },
+    {
+      "name": "김전자",
+      "type": "개발자",
+      "region": "수원",
+      "description": "자바 개발자 1명이요",
+      "img": "https://d2v80xjmx68n4w.cloudfront.net/gigs/fDG7V1570434441.",
+      "myteam": "알리",
+      "owned": null
+    },
+    {
+      "name": "김삼성",
+      "type": "포토샵",
+      "region": "서울, 수원",
+      "description": "디자이너",
+      "img": "https://d2v80xjmx68n4w.cloudfront.net/gigs/5oVQx1559031279.jpg",
+      "myteam": "이탁민",
+      "owned": "아시아드"
+    },
+    {
+      "name": "강드럼",
+      "type": "없음",
+      "region": "수원",
+      "description": "딱히 없음..",
+      "img": "https://d2v80xjmx68n4w.cloudfront.net/gigs/BYK531536072351.jpg",
+      "myteam": null,
+      "owned": null
+    }
+  ]
+}
